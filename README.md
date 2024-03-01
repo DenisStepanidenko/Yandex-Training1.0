@@ -15,3 +15,5 @@
 8) [*H. Метро*](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson1/underground/Solution.java) :white_check_mark:
 9) [*I. Узник замка Иф*](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson1/prisonerCastleIF/Solution.java) :white_check_mark:
 10) [*J. Система линейных уравнений - 2*](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson1/SystemLinearEquations/Solution.java) :white_check_mark:
+
+# *Лекция 2: Линейный поиск* :boom:
