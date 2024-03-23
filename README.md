@@ -41,3 +41,26 @@
 8) [***H. Злые свинки***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson3/ProblemH/Solution.java) :white_check_mark:
 9) [***I. Полиглоты***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson3/ProblemI/Solution.java) :white_check_mark:
 10) [***J. Пробежки по Манхэттену***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson3/ProblemJ/Solution.java) :white_check_mark:
+
+# *Лекция 4: Словари и сортировка подсчётом* :angel:
+## *Задачи*
+1) [***A. Словарь синонимов***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson4/ProblemA/Solution.java) :white_check_mark:
+2) [***B. Номер появления слова***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson4/ProblemB/Solution.java) :white_check_mark:
+3) [***C. Самое частое слово***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson4/ProblemC/Solution.java) :white_check_mark:
+4) [***D. Клавиатура***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson4/ProblemD/Solution.java) :white_check_mark:
+5) [***E. Пирамида***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson4/ProblemE/Solution.java) :white_check_mark:
+6) [***F. Продажи***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson4/ProblemF/Solution.java) :white_check_mark:
+7) [***G. Банковские счета***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson4/ProblemG/Solution.java) :white_check_mark:
+8) [***H. Расшифровка письменности Майя***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson4/ProblemH/Solution.java)  :white_check_mark:
+9) [***I. Контрольная по ударениям***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson4/ProblemI/Solution.java)  :white_check_mark:
+10) [***J. Дополнительная проверка на списывание***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson4/ProblemJ/Solution.java) :white_check_mark:
+
+
+
+
+
+
+
+
+
+
