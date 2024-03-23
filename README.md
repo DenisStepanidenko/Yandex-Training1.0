@@ -28,3 +28,16 @@
 8) [***H. Наибольшее произведение трех чисел***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson2/TheLargestProductOfThreeNumbers/Solution.java) :white_check_mark:
 9) [***I. Сапер***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson2/Sapper/Solution.java) :white_check_mark:  
 10) [***J. Треугольник Максима***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson2/MaximTriangle/Solution.java) :white_check_mark:
+
+# *Лекция 3: Множества* :musical_note:  
+## *Задачи*
+1) [***A. Количество различных чисел***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson3/ProblemA/Solution.java) :white_check_mark:
+2) [***B. Пересечение множеств***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson3/ProblemB/Solution.java) :white_check_mark:
+3) [***C. Кубики***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson3/ProblemC/Solution.java) :white_check_mark:
+4) [***D. Количество слов в тексте***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson3/ProblemD/Solution.java) :white_check_mark:
+5) [***E. OpenCalculator***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson3/ProblemE/Solution.java) :white_check_mark:
+6) [***F. Инопланетный геном***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson3/ProblemF/Solution.java) :white_check_mark:
+7) [***G. Черепахи***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson3/ProblemG/Solution.java) :white_check_mark:
+8) [***H. Злые свинки***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson3/ProblemH/Solution.java) :white_check_mark:
+9) [***I. Полиглоты***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson3/ProblemI/Solution.java) :white_check_mark:
+10) [***J. Пробежки по Манхэттену***](https://github.com/DenisStepanidenko/Yandex-Training1.0/blob/master/src/Lesson3/ProblemJ/Solution.java) :white_check_mark:
